@@ -1,0 +1,16 @@
+{
+    "name": "haste",
+    "author": "Jarrod Connolly <jarrod@nestedquotes.ca> (http://www.nestedquotes.ca/)",
+    "description": "Automated load testing and reporting tool",
+    "version": "0.0.1",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/jarrodconnolly/haste.git"
+    },
+    "dependencies": {
+        "phantomjs": "^1.9.7-8"
+    },
+    "license" : "MIT",
+    "preferGlobal": true,
+    "private": true
+}
