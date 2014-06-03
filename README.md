@@ -1,4 +1,4 @@
 haste
 =====
 
-PhantomJS based load generation and data collection
+Automated load testing and reporting tool
