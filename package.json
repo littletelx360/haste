@@ -6,11 +6,7 @@
     "type": "git",
     "url": "https://github.com/jarrodconnolly/haste.git"
   },
-  "homepage": "https://github.com/jarrodconnolly/haste",
-  "dependencies": {
-    "minimist": "^0.1.0",
-    "phantomjs": "^1.9.7-8"
-  },
+  "bugs": "https://github.com/jarrodconnolly/haste/issues",
   "keywords": [
     "load test",
     "http",
@@ -18,6 +14,11 @@
     "loadtest",
     "test"
   ],
+  "homepage": "https://github.com/jarrodconnolly/haste",
+  "dependencies": {
+    "phantomjs": "^1.9.7-8",
+    "yargs": "^1.2.2"
+  },
   "author": {
     "name": "Jarrod Connolly",
     "email": "jarrod@nestedquotes.ca",
