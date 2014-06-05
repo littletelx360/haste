@@ -48,7 +48,7 @@ if(!argv.url) {
     process.exit(1);
 }
 
-console.log(argv.url);
+//console.log(argv.url);
 
 
 manager.launch(argv);

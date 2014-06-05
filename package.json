@@ -16,6 +16,7 @@
   ],
   "homepage": "https://github.com/jarrodconnolly/haste",
   "dependencies": {
+    "lodash": "^2.4.1",
     "phantomjs": "^1.9.7-8",
     "yargs": "^1.2.2"
   },
