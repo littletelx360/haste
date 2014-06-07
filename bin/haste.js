@@ -26,6 +26,10 @@ var commands = require('yargs')
         version: {
             alias: 'v',
             describe: 'Show the version number'
+        },
+        help: {
+            alias: 'h',
+            describe: 'Show the command line options'
         }
     });
 
@@ -37,6 +41,10 @@ var argv = commands.argv;
     }
 });
 
+if(argv.help === true) {
+    commands.showHelp();
+    process.exit(0);
+}
 if(argv.version === true) {
     console.log('haste version: %s', packageJson.version);
     process.exit(0);

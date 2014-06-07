@@ -7,5 +7,15 @@ Load testing using simulated browsers. Includes simple reflection server and dat
 ## What does it do?
 I needed a realistic browser load testing tool so I decided to write one. Using phantomjs controlled by nodejs this will allow many browsers to be launched that follow a preset script of pages to hit while downloading all the resources from those pages.
 
+## Usage
+
+Install
+
+    $ npm install -g haste
+
+Test
+
+    $ npm test
+
 ## License
 See [LICENSE](LICENSE).
