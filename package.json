@@ -27,7 +27,7 @@
     "url": "http://www.nestedquotes.ca/"
   },
   "scripts": {
-    "test": ""
+    "test": "mocha"
   },
   "bin": {
     "haste": "bin/haste.js",
@@ -35,5 +35,9 @@
   },
   "license": "MIT",
   "preferGlobal": true,
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
 }
