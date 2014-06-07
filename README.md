@@ -1,4 +1,4 @@
-# haste [![Build Status](https://travis-ci.org/jarrodconnolly/haste.svg?branch=master)](https://travis-ci.org/jarrodconnolly/haste) [![Dependencies](https://david-dm.org/jarrodconnolly/haste.png)](https://david-dm.org/jarrodconnolly/haste) ![Code Status](http://img.shields.io/badge/state-pre--alpha-brightgreen.svg)
+# haste [![Build Status](https://travis-ci.org/jarrodconnolly/haste.svg?branch=master)](https://travis-ci.org/jarrodconnolly/haste) [![Dependencies](https://david-dm.org/jarrodconnolly/haste.png)](https://david-dm.org/jarrodconnolly/haste) [![Code Climate](https://codeclimate.com/github/jarrodconnolly/haste.png)](https://codeclimate.com/github/jarrodconnolly/haste) ![Code Status](http://img.shields.io/badge/state-pre--alpha-brightgreen.svg)
 
 Load testing using simulated browsers. Includes simple reflection server and data gathering.
 
