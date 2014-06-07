@@ -35,5 +35,5 @@
   },
   "license": "MIT",
   "preferGlobal": true,
-  "private": true
+  "private": false
 }
