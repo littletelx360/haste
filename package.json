@@ -1,7 +1,7 @@
 {
   "name": "haste",
   "description": "Load testing using simulated browsers. Includes simple reflection server and data gathering.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/jarrodconnolly/haste.git"
@@ -16,12 +16,12 @@
   ],
   "homepage": "https://github.com/jarrodconnolly/haste",
   "dependencies": {
-    "connect": "^2.19.4",
+    "connect": "^3.0.0",
     "lodash": "^2.4.1",
     "phantomjs": "^1.9.7-8",
     "q": "^1.0.1",
-    "st": "^0.4.1",
-    "yargs": "^1.2.2"
+    "st": "^0.5.0",
+    "yargs": "^1.2.3"
   },
   "author": {
     "name": "Jarrod Connolly",
