@@ -1,7 +1,7 @@
 {
   "name": "haste",
   "description": "Load testing using simulated browsers. Includes simple reflection server and data gathering.",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/jarrodconnolly/haste.git"
